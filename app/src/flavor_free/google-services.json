@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "399447913405",
+    "firebase_url": "https://satest-beca2.firebaseio.com",
+    "project_id": "satest-beca2",
+    "storage_bucket": "satest-beca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399447913405:android:0e87e65174ccbee4",
+        "android_client_info": {
+          "package_name": "com.skappz.free.androidflavors"  
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwrFBDbbxQZexFC7jWhS2GEJKhBZXC7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399447913405-fa8ctngbn91mqf3dm927b1c0m0vt2oug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
